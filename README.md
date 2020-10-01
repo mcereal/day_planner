@@ -2,6 +2,8 @@
 
 https://mcereal.github.io/day_planner/
 
+![day_planner](https://user-images.githubusercontent.com/5081876/94754844-661f4080-0360-11eb-8bee-d359fc3d0c6e.JPG)
+
 This application is a Javascript/Jquery based day planner
 
 This application displays blocks of time in a business day.
